@@ -1,0 +1,4 @@
+#Sun Feb 04 01:11:05 ICT 2018
+base.0=D\:\\Materi\\D4 Teknik Informatika\\Semester 4\\Mobile Programming\\BackUp\\WeekOne\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2
+renamed.0=classes.dex
+file.0=D\:\\Materi\\D4 Teknik Informatika\\Semester 4\\Mobile Programming\\BackUp\\WeekOne\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2\\classes.dex

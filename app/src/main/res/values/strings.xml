@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Week One</string>
+
+    <!-- main -->
+    <string name="text">This is text.</string>
+    <string name="image_desc">This is image.</string>
+
+</resources>

@@ -1,0 +1,7 @@
+#Sun Feb 04 01:11:06 ICT 2018
+base.0=D\:\\Materi\\D4 Teknik Informatika\\Semester 4\\Mobile Programming\\BackUp\\WeekOne\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e1ed0b1a7b8a4698fbcce4574ed8160f10ce801c
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Materi\\D4 Teknik Informatika\\Semester 4\\Mobile Programming\\BackUp\\WeekOne\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_979ffd1467753b3f6dc2a1e8d1848cb0d60b72ab\\classes.dex
+base.1=D\:\\Materi\\D4 Teknik Informatika\\Semester 4\\Mobile Programming\\BackUp\\WeekOne\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_979ffd1467753b3f6dc2a1e8d1848cb0d60b72ab
+file.0=D\:\\Materi\\D4 Teknik Informatika\\Semester 4\\Mobile Programming\\BackUp\\WeekOne\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e1ed0b1a7b8a4698fbcce4574ed8160f10ce801c\\classes.dex
