@@ -2,26 +2,26 @@
 <instant-run
     abi="armeabi-v7a,armeabi"
     api-level="21"
-    build-mode="COLD"
+    build-mode="FULL"
     density="hdpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1517681609219"
+    timestamp="1518111428580"
     token="4029560324237982622"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="297" />
+        duration="1801" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="47" />
+        duration="160" />
     <task
         name="verifier"
-        duration="0" />
+        duration="205" />
 
     <artifact
         location="D:\Materi\D4 Teknik Informatika\Semester 4\Mobile Programming\BackUp\WeekOne\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
@@ -29,22 +29,64 @@
     <artifact
         location="D:\Materi\D4 Teknik Informatika\Semester 4\Mobile Programming\BackUp\WeekOne\app\build\outputs\apk\app-debug.apk"
         type="SPLIT_MAIN" />
+    <artifact
+        location="D:\Materi\D4 Teknik Informatika\Semester 4\Mobile Programming\BackUp\WeekOne\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\Materi\D4 Teknik Informatika\Semester 4\Mobile Programming\BackUp\WeekOne\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\Materi\D4 Teknik Informatika\Semester 4\Mobile Programming\BackUp\WeekOne\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\Materi\D4 Teknik Informatika\Semester 4\Mobile Programming\BackUp\WeekOne\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\Materi\D4 Teknik Informatika\Semester 4\Mobile Programming\BackUp\WeekOne\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\Materi\D4 Teknik Informatika\Semester 4\Mobile Programming\BackUp\WeekOne\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\Materi\D4 Teknik Informatika\Semester 4\Mobile Programming\BackUp\WeekOne\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\Materi\D4 Teknik Informatika\Semester 4\Mobile Programming\BackUp\WeekOne\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\Materi\D4 Teknik Informatika\Semester 4\Mobile Programming\BackUp\WeekOne\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\Materi\D4 Teknik Informatika\Semester 4\Mobile Programming\BackUp\WeekOne\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+        type="SPLIT" />
 
     <build
         build-mode="FULL"
-        timestamp="1517681423666"
+        timestamp="1518111428580"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
+            location="D:\Materi\D4 Teknik Informatika\Semester 4\Mobile Programming\BackUp\WeekOne\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\Materi\D4 Teknik Informatika\Semester 4\Mobile Programming\BackUp\WeekOne\app\build\outputs\apk\app-debug.apk"
+            type="SPLIT_MAIN" />
+        <artifact
+            location="D:\Materi\D4 Teknik Informatika\Semester 4\Mobile Programming\BackUp\WeekOne\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            type="SPLIT" />
+        <artifact
             location="D:\Materi\D4 Teknik Informatika\Semester 4\Mobile Programming\BackUp\WeekOne\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\Materi\D4 Teknik Informatika\Semester 4\Mobile Programming\BackUp\WeekOne\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
         <artifact
             location="D:\Materi\D4 Teknik Informatika\Semester 4\Mobile Programming\BackUp\WeekOne\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="D:\Materi\D4 Teknik Informatika\Semester 4\Mobile Programming\BackUp\WeekOne\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            location="D:\Materi\D4 Teknik Informatika\Semester 4\Mobile Programming\BackUp\WeekOne\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
             type="SPLIT" />
         <artifact
-            location="D:\Materi\D4 Teknik Informatika\Semester 4\Mobile Programming\BackUp\WeekOne\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            location="D:\Materi\D4 Teknik Informatika\Semester 4\Mobile Programming\BackUp\WeekOne\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
             type="SPLIT" />
         <artifact
             location="D:\Materi\D4 Teknik Informatika\Semester 4\Mobile Programming\BackUp\WeekOne\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
@@ -53,34 +95,11 @@
             location="D:\Materi\D4 Teknik Informatika\Semester 4\Mobile Programming\BackUp\WeekOne\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="D:\Materi\D4 Teknik Informatika\Semester 4\Mobile Programming\BackUp\WeekOne\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\Materi\D4 Teknik Informatika\Semester 4\Mobile Programming\BackUp\WeekOne\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            location="D:\Materi\D4 Teknik Informatika\Semester 4\Mobile Programming\BackUp\WeekOne\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
         <artifact
             location="D:\Materi\D4 Teknik Informatika\Semester 4\Mobile Programming\BackUp\WeekOne\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
-        <artifact
-            location="D:\Materi\D4 Teknik Informatika\Semester 4\Mobile Programming\BackUp\WeekOne\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\Materi\D4 Teknik Informatika\Semester 4\Mobile Programming\BackUp\WeekOne\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\Materi\D4 Teknik Informatika\Semester 4\Mobile Programming\BackUp\WeekOne\app\build\outputs\apk\app-debug.apk"
-            type="SPLIT_MAIN" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1517681609219"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="D:\Materi\D4 Teknik Informatika\Semester 4\Mobile Programming\BackUp\WeekOne\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\Materi\D4 Teknik Informatika\Semester 4\Mobile Programming\BackUp\WeekOne\app\build\outputs\apk\app-debug.apk"
-            type="SPLIT_MAIN" />
     </build>
 
 </instant-run>
